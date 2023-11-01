@@ -1,15 +1,20 @@
+import java.util.Scanner;
 
 public class PerhitunganWaktu {
     public static void main(String[] args) {
+        double jarak;
+        double kecepatan;
+        Scanner input = new Scanner(System.in);
+        System.out.println("masukkan jarak :");
+        jarak = input.nextInt();
+        System.out.println("masukkan kecepatan :");
+        kecepatan = input.nextInt();
 
         // Jarak dalam kilometer
-        double jarak= 100;
-
 
         // Kecepatan rata-rata dalam kilometer per jam
 
 
-         double kecepatan = 50;
 /**
  * Rumus mencari waktu
  */
