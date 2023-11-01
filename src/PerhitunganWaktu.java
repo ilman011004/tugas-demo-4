@@ -9,7 +9,7 @@ public class PerhitunganWaktu {
         // Kecepatan rata-rata dalam kilometer per jam
 
 
-        double kecepatan = 50;
+         double kecepatan = 50;
 /**
  * Rumus mencari waktu
  */
